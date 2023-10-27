@@ -1,4 +1,4 @@
-I'm Rajeshwari R this is m,y first portfolio project from the learnings of naan mudhalvan. This portfolio is created using Html,Css only### Hi there 👋
+I'm sarathi.M this is m,y first portfolio project from the learnings of naan mudhalvan. This portfolio is created using Html,Css only### Hi there 👋
 
 <!--
 **sarathi0907/sarathi0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
